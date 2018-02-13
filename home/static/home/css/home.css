@@ -1,0 +1,13 @@
+section h1{
+  display: inline-block;
+  margin:20px;
+  font-size: 25px;
+  color: #ffffff;
+}
+nav{
+  float: right;
+}
+body {
+  background-image: url("../img/Document.jpg");
+  background-size: 100%;
+}
