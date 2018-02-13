@@ -7,7 +7,21 @@ section h1{
 nav{
   float: right;
 }
+nav h1{
+  font-size: 20px;
+}
 body {
   background-image: url("../img/Document.jpg");
   background-size: 100%;
+}
+.button{
+  border: 1px solid #ffffff;
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.button:hover, .button:active{
+  background-color: #ffffff;
+  color: rgba(0, 0, 0, 1);
+  cursor: pointer;
 }
