@@ -1,0 +1,13 @@
+header{
+  z-index: 999;
+  position: fixed;
+  background-color: #ffffff;
+  width: 100%;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 200%;
+  color: #EC644B;
+  padding: 1%;
+}
